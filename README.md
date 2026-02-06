@@ -2,12 +2,7 @@
 # 🎪AtithiSathi
 **Hotel Listing & Review Platform**
 
-A full-stack hotel listing platform where users can create, manage, and explore hotel listings with secure authentication and authorization.
-
 ---
-
-## 📌 Overview
-
 **AtithiSathi** is a full-stack web application that allows users to list hotels, manage their own listings, and review hotels.  
 The platform follows **ownership-based authorization**, ensuring users can modify or delete only the content they own.
 
