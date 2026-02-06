@@ -10,6 +10,12 @@ This project is inspired by real-world listing platforms and focuses on authenti
 
 ---
 
+## 🌐 Live Demo
+
+https://atithisathi.onrender.com/listings
+
+---
+
 ## 🚀 User Features
 - User authentication using **Passport.js**
 - Create new hotel listings with images
@@ -37,13 +43,7 @@ This project is inspired by real-world listing platforms and focuses on authenti
 
 - Secure login and session management using Passport.js
 - Ownership-based access control for listings and reviews
-- Protected routes to prevent unauthorized access
-
----
-
-## 🌐 Live Demo
-
-https://atithisathi.onrender.com/listings 
+- Protected routes to prevent unauthorized access 
 
 ---
 
