@@ -1,6 +1,6 @@
  
 # 🎪AtithiSathi
-## Hotel Listing & Review Platform
+**Hotel Listing & Review Platform**
 A full-stack hotel listing platform where users can create, manage, and explore hotel listings with secure authentication and authorization.
 
 ---
