@@ -1,6 +1,6 @@
  
-# 🎪AtithiSathi – Hotel Listing & Review Platform
-
+# 🎪AtithiSathi
+## Hotel Listing & Review Platform
 A full-stack hotel listing platform where users can create, manage, and explore hotel listings with secure authentication and authorization.
 
 ---
@@ -14,9 +14,7 @@ This project is inspired by real-world listing platforms and focuses on authenti
 
 ---
 
-## 🚀 Features
-
-### 👤 User Features
+## 🚀 User Features
 - User authentication using **Passport.js**
 - Create new hotel listings with images
 - Edit and delete **own listings only**
@@ -34,7 +32,7 @@ This project is inspired by real-world listing platforms and focuses on authenti
 - **Database:** MongoDB, Mongoose
 - **Authentication:** Passport.js
 - **File Uploads:** Multer
-- **Cloud Storage:** Cloudinary *(if used)*
+- **Cloud Storage:** Cloudinary
 - **Version Control:** Git & GitHub
 
 ---
