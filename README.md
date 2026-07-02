@@ -51,7 +51,7 @@ https://atithisathi.onrender.com/listings
 
 - Implemented authentication and authorization in a real-world project
 - Worked with image uploads using Multer
-- Designed RESTful APIs
+- Designed RESTful APIs.
 - Applied ownership-based backend validation
 
 ---
